@@ -1,0 +1,22 @@
+{
+  "name": "moment-research",
+  "version": "1.0.0",
+  "description": "跨时区时间处理研究",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qidaneix/moment-research.git"
+  },
+  "author": "xiaodabao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qidaneix/moment-research/issues"
+  },
+  "homepage": "https://github.com/qidaneix/moment-research#readme",
+  "dependencies": {
+    "moment": "^2.19.3"
+  }
+}
