@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/qidaneix/moment-research#readme",
   "dependencies": {
-    "moment": "^2.19.3"
+    "luxon": "^0.2.7"
   }
 }
